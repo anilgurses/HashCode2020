@@ -7,3 +7,5 @@ I am believing that my fact calculation has not worked properly. There might be 
 
 Hash Code 2020 problem can be found at Google Hash Code website
 
+### Edit1:
+After a little research, I found out that greedy algorithm is the best approach for the problem. I will try to implement the algorithm for the problem soon
